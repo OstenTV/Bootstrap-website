@@ -5,10 +5,10 @@
     background-position: center;
     background-size: cover;
 }
-#home_banner {
-    background-image: url("http://rightsolutioncentre.com/wp-content/uploads/2015/09/office-desk-banner.jpg");
-}
 .info-box {
     border: 1px solid black;
     height: 200px;
+}
+.odd {
+    background-color: #f8f4f4;
 }
