@@ -1,2 +1,2 @@
 # Bootstrap-website
-A website about computers made in school :)
+A testing website made with Bootstrap.
